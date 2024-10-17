@@ -1,0 +1,4 @@
+<section id="visor-pdf">
+  <h2>Voces en Acción (PDF)</h2>
+  <embed src="archivos/periodico.pdf" type="application/pdf" width="800" height="600">
+</section>
